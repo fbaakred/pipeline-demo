@@ -1,2 +1,2 @@
 
-Hello guys! I'm a noob pipeline developer. My name is Fredrik.
+Hello guys! I'm a noob pipeline. My name is Fredrik.
